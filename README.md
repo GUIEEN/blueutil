@@ -1,3 +1,6 @@
+# Ref
+- https://qiita.com/mogutan88/items/aac3a0bd6e24988658a6
+
 # blueutil
 
 CLI for bluetooth on OSX: power, discoverable state, list, inquire devices, connect, info, …
@@ -59,3 +62,6 @@ Opening Bluetooth preference pane always turns on discoverability if bluetooth p
 
 Originally written by Frederik Seiffert ego@frederikseiffert.de http://www.frederikseiffert.de/blueutil/
 Copyright (c) 2011-2019 Ivan Kuchin. See [LICENSE.txt](LICENSE.txt) for details.
+
+
+
