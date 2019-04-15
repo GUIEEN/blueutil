@@ -1,5 +1,8 @@
 # Ref
 - https://qiita.com/mogutan88/items/aac3a0bd6e24988658a6
+- Bluetooth profile
+  - https://plugable.com/2016/06/22/understanding-bluetooth-wireless-audio/
+
 
 # blueutil
 
